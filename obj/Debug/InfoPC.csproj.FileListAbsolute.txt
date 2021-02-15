@@ -1,0 +1,9 @@
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\bin\Debug\InfoPC.exe.config
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\bin\Debug\InfoPC.exe
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\bin\Debug\InfoPC.pdb
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.csprojAssemblyReference.cache
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.Properties.Resources.resources
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.csproj.GenerateResource.cache
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.exe
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.pdb
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз3\InfoPC\obj\Debug\InfoPC.MainForm.resources
